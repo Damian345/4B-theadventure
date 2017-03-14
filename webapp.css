@@ -26,3 +26,12 @@ div{
 	opacity:1;
 	
 }
+
+@media screen and (max-width: 480px) {
+	
+	#body {
+		color: #000000;
+		text-size: 85px;
+		}
+	
+	}
